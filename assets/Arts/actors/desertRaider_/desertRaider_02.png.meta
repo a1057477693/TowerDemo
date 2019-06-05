@@ -1,0 +1,31 @@
+{
+  "ver": "2.2.0",
+  "uuid": "689706c6-749c-477b-b93e-c6d38577afa6",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "subMetas": {
+    "desertRaider_02": {
+      "ver": "1.0.3",
+      "uuid": "054d46e4-2b2d-4874-8398-569d846c53f1",
+      "rawTextureUuid": "689706c6-749c-477b-b93e-c6d38577afa6",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -0.5,
+      "offsetY": 2,
+      "trimX": 15,
+      "trimY": 2,
+      "width": 23,
+      "height": 30,
+      "rawWidth": 54,
+      "rawHeight": 38,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

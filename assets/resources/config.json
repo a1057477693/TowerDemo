@@ -1,0 +1,15 @@
+{
+  "towers":{
+    "mega":{
+      "power":30,
+      "attackRange":300
+    }
+  },
+  "walker":{
+    "thief":{
+      "maxHp":100,
+      "speed":60
+    }
+  }
+
+}
