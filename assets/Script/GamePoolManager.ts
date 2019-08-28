@@ -11,7 +11,9 @@
 import error = cc.error;
 
 const {ccclass, property} = cc._decorator;
-
+/**
+ * 对象池管理
+ */
 @ccclass
 export default class GamePoolManager extends cc.Component {
 
